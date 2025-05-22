@@ -48,12 +48,11 @@ You can view my completion certificate for this program on my [Forage profile](h
 │   ├── phishing_email_simulation.md
 │   └── README.md
 │
-├── /simulation-analysis
-│   └── simulation_results_analysis.md
-│
-├── /training-materials
-│   ├── training_presentation.pptx
-│   └── training_script.md
+├── /simulation
+│   ├── Potential_presentation.pptx       # My submitted training presentation
+│   ├── Task_2_Answer-Slide_Deck.pdf     # Example presentation by security awareness professional
+│   ├── simulation_results_analysis.md
+│   └── README.md                     
 │
 └── README.md
 
