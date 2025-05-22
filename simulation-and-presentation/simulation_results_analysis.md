@@ -1,27 +1,24 @@
-# Task 2: Interpret Phishing Simulation Results and Create Training Presentation
+# Phishing Simulation and Training Task
 
-## Phishing Simulation Results Overview
+This task is part of a simulated cybersecurity exercise based on a phishing campaign at Mastercard.
 
-The phishing campaign targeted several teams. The table below shows how each team performed:
+## What is the Simulation About?
 
-| Team           | Email Open Rate | Click-Through Rate | Phishing Success Rate |
-|----------------|-----------------|--------------------|----------------------|
-| IT             | 80%             | 2%                 | 0%                   |
-| HR             | 100%            | 85%                | 75%                  |
-| Card Services  | 60%             | 50%                | 10%                  |
-| Reception      | 40%             | 10%                | 0%                   |
-| Engineering    | 70%             | 4%                 | 1%                   |
-| Marketing      | 65%             | 40%                | 38%                  |
-| R&D            | 50%             | 5%                 | 2%                   |
-| **Overall Avg**| **66%**         | **28%**            | **18%**              |
+The simulation mimics a real-world phishing attack where employees receive suspicious emails designed to trick them into revealing sensitive information.
 
-- **Email Open Rate**: Percentage of recipients who opened the email.
-- **Click-Through Rate**: Percentage of recipients who clicked on the phishing link.
-- **Phishing Success Rate**: Percentage of recipients who clicked the link and submitted personal information.
+Your role is to:
 
-The data helps identify which teams are most vulnerable to phishing attacks.
+1. Analyze the phishing campaign results to identify which teams are most vulnerable.
+2. Develop a short training presentation aimed at raising awareness and educating these teams about phishing threats.
 
----
+## Purpose of the Task
+
+The goal is to improve employee security awareness by:
+
+- Helping teams recognize phishing emails.
+- Teaching common phishing tactics.
+- Providing clear, engaging guidance to reduce the risk of future successful attacks.
+
 
 ## Presentation Task
 
