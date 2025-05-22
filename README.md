@@ -2,6 +2,8 @@
 
 Cybersecurity simulation project for MasterCard scenario
 
+![Mastercard Screenshot](./mastercard-screenshot.png)
+
 ## Folder Structure
 
 ```text
@@ -9,7 +11,9 @@ Cybersecurity simulation project for MasterCard scenario
 │
 ├── /phishing-email-simulation
 │   ├── Phishing_Email.pdf
-│   └── phishing_email_example.txt
+│   ├── phishing_email_example.txt
+│   ├── phishing_email_simulation.md
+│   └── README.md
 │
 ├── /simulation-analysis
 │   └── simulation_results_analysis.md
@@ -19,4 +23,5 @@ Cybersecurity simulation project for MasterCard scenario
 │   └── training_script.md
 │
 └── README.md
+
 text
