@@ -8,7 +8,7 @@ Cybersecurity simulation project for MasterCard scenario
 /mastercard-cybersecurity-simulation
 │
 ├── /phishing-email-simulation
-│   ├── phishing_email_task.md
+│   ├── README.md
 │   └── phishing_email_example.txt
     └── Phishing_Email.pdf
 │
