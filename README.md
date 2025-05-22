@@ -2,7 +2,6 @@
 
 Cybersecurity simulation project for MasterCard scenario
 
-![Mastercard Screenshot](./mastercard-screenshot.png)
 
 ## Folder Structure
 
