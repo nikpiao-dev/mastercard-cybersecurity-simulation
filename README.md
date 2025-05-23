@@ -1,7 +1,7 @@
 ## 🎯 Mastercard Cybersecurity Simulation
 By Forage – Virtual Experience Program
 
-Cybersecurity simulation project based on a Mastercard scenario. This program simulates tasks performed by a Security Analyst, focusing on phishing threat detection and employee awareness training.
+Cybersecurity simulation project based on a Mastercard scenario by **Forage**. This program simulates tasks performed by a Security Analyst, focusing on phishing threat detection and employee awareness training.
 
 ---
 
